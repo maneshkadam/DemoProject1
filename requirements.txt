@@ -40,7 +40,7 @@ Pillow==7.1.2
 Pillow-PIL==0.1.dev0
 pluggy==0.13.1
 public==2019.4.13
-py==1.8.1
+py==1.10.0
 pyparsing==2.4.7
 pytesseract==0.3.4
 pytest==5.4.1
