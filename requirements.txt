@@ -36,7 +36,7 @@ packaging==20.3
 pandas==1.0.4
 parse==1.15.0
 parse-type==0.5.2
-Pillow==7.1.2
+Pillow==8.3.2
 Pillow-PIL==0.1.dev0
 pluggy==0.13.1
 public==2019.4.13
